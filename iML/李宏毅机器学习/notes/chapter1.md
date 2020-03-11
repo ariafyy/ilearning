@@ -1,4 +1,4 @@
-![image](https://github.com/ariafyy/ilearning/tree-save/master/iML/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/notes/imags/屏幕快照 2020-03-11 05.42.04 PM.png)
+![image](https://github.com/ariafyy/ilearning/blob/master/iML/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/notes/imags/ml_is.png)
 
 ##  unsupervised
 ## supervised:告诉机器 下一步落子的位置
