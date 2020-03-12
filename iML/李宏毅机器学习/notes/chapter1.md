@@ -5,4 +5,17 @@
 ##  reinforcement：让自己 和自己或者别人下 ，自己想策略，自己想办法
 
 
-机器找到 -给定函数寻找范围
+####  机器找到 -给定函数寻找范围
+
+
+####  Regression 
+####  linear model: y  = b+  ∑ w x
+####  x( an arrribute of input x )feature
+####  w weight
+####  b-bias
+
+####  x_cp
+x^cp
+x<sub>cp</sub
+
+
