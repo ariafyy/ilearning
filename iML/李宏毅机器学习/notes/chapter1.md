@@ -14,8 +14,6 @@
 ####  w weight
 ####  b-bias
 
-####  x_cp
-x^cp
-x<sub>cp</sub
+####  x<sub>cp
 
 
